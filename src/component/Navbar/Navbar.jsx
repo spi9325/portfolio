@@ -58,7 +58,7 @@ export function Navbar() {
             <span className="block w-1 h-4 bg-neutral-900 mr-[2px]" />
             <span className="block w-1 h-3 bg-neutral-900 mr-[2px]" />
           </div>
-          Sj
+          sanket
         </div>
 
         <nav className="hidden md:flex items-center gap-6 ">
@@ -75,7 +75,7 @@ export function Navbar() {
 
         <div className="flex items-center gap-4">
           <a
-            href="https://github.com/sj8687"
+            href="https://github.com/spi9325"
             target="_blank"
             rel="noopener noreferrer"
             className="text-neutral-700 hover:text-[#8245ec] transition"
@@ -84,7 +84,7 @@ export function Navbar() {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/shreyash-jadhav-4434b5285"
+            href="https://www.linkedin.com/in/sanket-inamdar9325"
             target="_blank"
             rel="noopener noreferrer"
             className="text-neutral-700 hover:text-[#8245ec] transition"

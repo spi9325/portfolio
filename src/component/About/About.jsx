@@ -12,7 +12,7 @@ export function About() {
 
 
       <p style={{fontFamily: 'Poppins, sans-serif'}}  className="mt-6 max-w-2xl mx-auto text-neutral-700 text-base sm:text-lg">
-        I’m <span className="font-medium text-neutral-900">Shreyash Jadhav</span> — an elegant
+        I’m <span className="font-medium text-neutral-900">Sanket Inamdar</span> — an elegant
         Full-Stack Developer crafting scalable applications, intuitive UI/UX,
         and cloud-ready systems using modern web technologies and AWS.
       </p>

@@ -44,7 +44,7 @@ import NeonLogo from './assets/tech_logo/neon.jpeg';
 import ImagekitLogo from './assets/tech_logo/imagekit.png';
 import PrometheusLOgo from './assets/tech_logo/prometheus.webp'
 
-import CodeAlphaLogo from './assets/company_logo/codeAlpha.png';
+import PuneLok from './assets/company_logo/PuneLok.png';
 
 import SvpmLogo from './assets/education_logo/svpm.webp';
 
@@ -142,11 +142,11 @@ export const SkillsInfo = [
   export const experiences = [
     {
       id: 0,
-      img: CodeAlphaLogo,
+      img: PuneLok,
       role: "Fullstack Developer (INTERN)",
-      company: "Code Alpha",
-      date: "sep 2025 - present",
-      desc: "Developed dynamic and scalable web applications using the MERN stack, handling both frontend and backend development. Collaborated with cross-functional teams to build responsive UI, implement RESTful APIs, and optimize application performance in an agile environment.",
+      company: "PuneLok",
+      date: "feb 2026 - april 2026",
+      desc: "Developed Authentication system end to end in NestJS and worked on delivery app backend. test apis and optimize using redis for better response time and cashe",
       skills: [
         "HTML",
         "CSS",
@@ -158,9 +158,7 @@ export const SkillsInfo = [
         "Tailwind CSS",
         "MongoDb",
         "PostgreSQL",
-        "zustand",
-        "Next Js",
-        "BetterAuth"
+        "Nest Js",
       ],
     },
     
@@ -173,27 +171,18 @@ export const SkillsInfo = [
       img: SvpmLogo,
       school: "SVPM College, Malegaon, baramati",
       date: "Sept 2022 - june 2024",
-      grade: "75.2%",
+      grade: "85.5%",
       desc: "I completed my Bachelor's degree in Computer Application (BCA.) from SVPM College, malegaon. Throughout my studies, I was immersed in a variety of subjects that deepened my understanding of computing and technology. From exploring Data Structures and Algorithms to diving into Web Development and Database Management Systems, I gained practical insights into the world of software development. My time at BCA College allowed me to work on projects that applied theoretical concepts to real-world problems.",
       degree: "Bachelor of computer Application",
     },
     {
       id: 2,
-      img: SvpmLogo,
-      school: "SVPM College, Malegaon, baramati",
+      img: "",
+      school: "NMVP College, Pandare",
       date: "Apr 2020 - March 2022",
-      grade: "65%",
+      grade: "72%",
       desc: "I completed my class 12 education from SVPM School and College, baramati, under the HSC board, where I studied Physics, Chemistry, and Mathematics (PCM) with Computer Science.",
       degree: "HSC(XII) - PCM with Computer Science",
-    },
-    {
-      id: 3,
-      img: SvpmLogo,
-      school: "SVPM School, Malegaon, baramati",
-      date: "Apr 2019 - March 2020",
-      grade: "69.5%",
-      desc: "I completed my class 10 education from svpm Public School, baramati, under the SSC board, where I studied Science with Computer.",
-      degree: "SSC(X), Science with Computer Application",
     },
   ];
   
@@ -207,7 +196,7 @@ export const SkillsInfo = [
         "Viraj Multipurpose Hall is a full-stack web application designed to manage event hall bookings secure, and user-friendly way.",
       image: VirajHallLogo,
       tags: ["Turborepo", "TailwindCSS", "Express js", "Postgres","Cloudnary","FireBase","Zustand","Resend", "AWS", "Docker", "Kubernetes","Authjs","TS","Zod","GSAP"],
-      github: "https://github.com/sj8687/viraj-hall-docker-aws",
+      github: "https://github.com/10MinDesign-Invite/viraj-hall",
       webapp: "https://www.virajmultipurposehall.site",
     },
     {
@@ -217,7 +206,7 @@ export const SkillsInfo = [
         "Built a dynamic event-template platform that automated design generation, enabling users to create templates 50× faster than manual editing..",
       image: minLogo,
       tags: ["Turborepo", "Express js", "Postgres", "Prisma", "ImageKit", "Tailwind CSS", "Redis", "NeonDB", "Resend", "Razerpay", "AWS", "Docker", "Kubernetes","Authjs","TS","Zod","GSAP"],
-      github: "https://github.com/spi9325/10MinDesignProd",
+      github: "https://github.com/10MinDesign-Invite/10MinDesign",
       webapp: "https://www.10mindesigns.shop",
     },
     {
@@ -239,6 +228,16 @@ export const SkillsInfo = [
       tags: ["REACT JS", "GSAP","Tailwind-CSS", "JavaScript"],
       github: "https://github.com/sj8687/Splyt",
       webapp: "https://splyt-three.vercel.app",
+    },
+    {
+      id: 4,
+      title: "consultancy",
+      description:
+        "Freelance Work: Created pixel perfect site from figma to code. Replicated every point of detail in code. ",
+      image: SplytLogo,
+      tags: ["Next JS", "GSAP","Tailwind-CSS", "JavaScript", "Shadcn UI"],
+      github: "https://github.com/sj8687/Splyt",
+      webapp: "https://freelance-gamma-topaz.vercel.app/",
     },
     
     

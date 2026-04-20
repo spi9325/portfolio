@@ -9,11 +9,11 @@ const Footer = () => {
         
         <div className="flex text-gray-500 flex-wrap justify-center space-x-4 mt-6">
           {[
-            { icon: <FaFacebook />, link: "https://www.facebook.comsj/" },
-            { icon: <FaTwitter />, link: "https://x.com/shreyash744" },
-            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/shreyash-jadhav-4434b5285" },
-            { icon: <FaInstagram />, link: "https://www.instagram.com/__sj__8687" },
-            { icon: <FaYoutube />, link: "https://www.youtube.com" },
+            { icon: <FaFacebook />, link: "#" },
+            { icon: <FaTwitter />, link: "#" },
+            { icon: <FaLinkedin />, link: "https://www.linkedin.com/in/sanket-inamdar9325" },
+            { icon: <FaInstagram />, link: "#" },
+            { icon: <FaYoutube />, link: "#" },
             
           ].map((item, index) => (
             <a
@@ -29,7 +29,7 @@ const Footer = () => {
         </div>
 
         <p className="text-sm text-gray-400 mt-6">
-          © 2025 Shreyash Jadhav. All rights reserved.
+          © 2025 Sanket Inamdar. All rights reserved.
         </p>
       </div>
     </footer>

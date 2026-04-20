@@ -40,7 +40,7 @@ const Education = () => {
               <div className="w-20 h-16 rounded-md overflow-hidden border border-emerald-400/40 shadow-sm">
                 <img
                   src={edu.img}
-                  alt={edu.school}
+                  alt={"NMVP school logo"}
                   className="w-full h-full object-cover"
                 />
               </div>
